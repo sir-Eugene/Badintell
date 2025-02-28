@@ -1,5 +1,5 @@
 my name is Eugene chacha
-i am an aspiring fromt-end developer
+i am an aspiring front-end developer
 i am still learning
 languages learning are havascript, c++, css,react,python etc
 email eugenechacha52@gmail.com
